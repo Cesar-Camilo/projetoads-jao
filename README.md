@@ -2,12 +2,14 @@
 ---
 # Dados Pessoais
 
-rg 000000000
-cpf 000000000
-email hdgfffyiaf@gmail.com
+---
+-RG 000-000/00
+-CPF 000.000.000-00
+-email hdgfffyiaf@gmail.com
 
+---
 
-experiencia
+# Experiencia
 
 -Confiança
 
