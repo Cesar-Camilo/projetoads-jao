@@ -21,3 +21,7 @@
 
 -Feirante
 
+-Fumante
+
+-Maluco
+
